@@ -1,0 +1,82 @@
+# depslib dependency file v1.0
+1713588889 source:c:\users\mariem\onedrive\documents\feedbackhub\aq\bin\debug\projet c++\main.cpp
+	<iostream>
+	<string>
+	"poste.cpp"
+	<fstream>
+	<iomanip>
+	"statistics.cpp"
+
+1713558254 c:\users\mariem\onedrive\documents\feedbackhub\aq\bin\debug\projet c++\poste.h
+	"machine.h"
+	<list>
+	<iterator>
+	<algorithm>
+	<map>
+
+1713556477 c:\users\mariem\onedrive\documents\feedbackhub\aq\bin\debug\projet c++\machine.h
+	<stdlib.h>
+	<iostream>
+	<string>
+	<vector>
+
+1713549639 c:\users\mariem\onedrive\documents\feedbackhub\aq\bin\debug\projet c++\statistic.h
+	"membre.cpp"
+	<string.h>
+	<typeinfo>
+	<map>
+	<vector>
+	<algorithm>
+
+1713556123 c:\users\mariem\onedrive\documents\feedbackhub\aq\bin\debug\projet c++\personne.h
+	"session.cpp"
+	<fstream>
+
+1713547490 c:\users\mariem\onedrive\documents\feedbackhub\aq\bin\debug\projet c++\session.h
+
+1713541097 c:\users\mariem\onedrive\documents\feedbackhub\aq\bin\debug\projet c++\facture.h
+	"tarif.cpp"
+
+1713552123 c:\users\mariem\onedrive\documents\feedbackhub\aq\bin\debug\projet c++\statistics.cpp
+	"statistic.h"
+
+1713556123 c:\users\mariem\onedrive\documents\feedbackhub\aq\bin\debug\projet c++\personne.cpp
+	"personne.h"
+	<string>
+
+1713558405 c:\users\mariem\onedrive\documents\feedbackhub\aq\bin\debug\projet c++\poste.cpp
+	"poste.h"
+	"machine.cpp"
+
+1713556495 c:\users\mariem\onedrive\documents\feedbackhub\aq\bin\debug\projet c++\machine.cpp
+	"machine.h"
+
+1713552525 c:\users\mariem\onedrive\documents\feedbackhub\aq\bin\debug\projet c++\session.cpp
+	"session.h"
+
+1713552733 c:\users\mariem\onedrive\documents\feedbackhub\aq\bin\debug\projet c++\facture.cpp
+	"facture.h"
+
+1713555395 c:\users\mariem\onedrive\documents\feedbackhub\aq\bin\debug\projet c++\client.cpp
+	"client.h"
+
+1713547956 c:\users\mariem\onedrive\documents\feedbackhub\aq\bin\debug\projet c++\client.h
+	"personne.cpp"
+	"facture.cpp"
+	<fstream>
+
+1713552582 c:\users\mariem\onedrive\documents\feedbackhub\aq\bin\debug\projet c++\membre.cpp
+	"membre.h"
+
+1713526223 c:\users\mariem\onedrive\documents\feedbackhub\aq\bin\debug\projet c++\membre.h
+	"client.cpp"
+	<fstream>
+
+1713524806 c:\users\mariem\onedrive\documents\feedbackhub\aq\bin\debug\projet c++\tarif.cpp
+	"tarif.h"
+	<iostream>
+	<string>
+
+1713524710 c:\users\mariem\onedrive\documents\feedbackhub\aq\bin\debug\projet c++\tarif.h
+	<iostream>
+

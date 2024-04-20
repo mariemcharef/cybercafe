@@ -1,0 +1,5 @@
+Mois: 0
+Année: 0
+Nombre total de clients: 0
+Durée moyenne de session: 0
+les personnes: 
